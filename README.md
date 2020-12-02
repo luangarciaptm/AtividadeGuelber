@@ -4,3 +4,4 @@
 #### Grupo:
 * Luan Garcia
 * Theo Araújo
+* João Antônio
