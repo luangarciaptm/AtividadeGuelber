@@ -5,3 +5,4 @@
 * Luan Garcia
 * Theo Araújo
 * João Antônio
+* Higor Ferrer
